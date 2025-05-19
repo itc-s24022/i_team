@@ -1,0 +1,13 @@
+host: Ubuntu 24.04.2LTS
+KVM: QEMU emulator version 8.2.2 (Debian 1:8.2.2+ds-0ubuntu1.6)
+Vagrant: Vagrant 2.4.5
+
+仮想環境
+Box名:Ubuntu bento
+OSバージョン: Ubuntu 24.04.2 LTS
+volta: 2.0.2
+node: v24.0.1
+npm: 11.3.0
+NExt.js: 15.3.2
+
+
